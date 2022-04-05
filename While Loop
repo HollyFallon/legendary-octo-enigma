@@ -1,0 +1,13 @@
+using System;
+public class Example
+{
+    public static void Main()
+    {
+        int n = 0;
+        while (n < 16)
+        {
+            Console.WriteLine(n);
+            n++;
+        }
+    }
+}
